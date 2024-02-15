@@ -4,10 +4,10 @@
 
 This repository contains materials and projects related to the Python Web course at GoIT.
 
-## Final Project - 
+## Final Team Project - Instagram Killer
 
 ------
-[Dedalus](https://github.com/Pelmenoff/dedalus_project) is a personal assistant and organizer built using Python. It allows you to manage contacts, notes, weather information, and more. Refer to the dedicated project repository for details on the codebase and available commands.
+[Instagram Killer](https://github.com/KossKokos/Python_Web_Project) The "Instagram Killer" application is an innovative platform for saving and processing photos with secure authentication through JWT tokens and different roles for users.
 ------
 
 ## Python Wev Course Projects

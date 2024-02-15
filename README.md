@@ -36,3 +36,34 @@ This repository contains materials and projects related to the Python Web course
 
 - [Homework Assignment #6 - Database Design and Queries](https://github.com/Nikita-devel/hm2_6): Implement a database schema with the following tables
  
+### 7. 
+
+- [](https://github.com/Nikita-devel/hm2_7):
+  
+### 8. 
+
+- [](https://github.com/Nikita-devel/hm2_8):
+  
+### 9. 
+
+- [](https://github.com/Nikita-devel/hm2_9):
+  
+### 10. 
+
+- [](https://github.com/Nikita-devel/hm2_10):
+  
+### 11. 
+
+- [](https://github.com/Nikita-devel/hm2_11):
+  
+### 12. 
+
+- [](https://github.com/Nikita-devel/hm2_12): 
+
+### 13. 
+
+- [](https://github.com/Nikita-devel/hm2_13):
+  
+### 14. 
+
+- [](https://github.com/Nikita-devel/hm2_14): 

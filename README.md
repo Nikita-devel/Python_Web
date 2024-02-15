@@ -36,34 +36,35 @@ This repository contains materials and projects related to the Python Web course
 
 - [Homework Assignment #6 - Database Design and Queries](https://github.com/Nikita-devel/hm2_6): Implement a database schema with the following tables
  
-### 7. 
+### 7. Extended Database Operations
 
-- [](https://github.com/Nikita-devel/hm2_7):
+- [Extended Database Operations](https://github.com/Nikita-devel/hm2_7):In this homework assignment, we will continue working with the homework from the previous module.
+For this assignment, we will use the PostgreSQL database.
   
-### 8. 
+### 8. MongoDB, RabbitMQ, and Email Simulation Project
 
-- [](https://github.com/Nikita-devel/hm2_8):
+- [MongoDB, RabbitMQ, and Email Simulation Project](https://github.com/Nikita-devel/hm2_8): This repository documents a Python project focusing on the integration of MongoDB for data storage, RabbitMQ for message queuing, and simulated email distribution. The project is divided into two primary parts.
   
-### 9. 
+### 9. Web Scraping Project - Quotes and Authors
 
-- [](https://github.com/Nikita-devel/hm2_9):
+- [Web Scraping Project - Quotes and Authors](https://github.com/Nikita-devel/hm2_9): This project involves web scraping using the Scrapy framework to extract quotes and author information from the website http://quotes.toscrape.com.
   
-### 10. 
+### 10. # Django Web Project - Quotes Hub
 
-- [](https://github.com/Nikita-devel/hm2_10):
+- [# Django Web Project - Quotes Hub](https://github.com/Nikita-devel/hm2_10): This Django web project replicates the functionality of the website http://quotes.toscrape.com and extends it to include user registration, authentication, author addition, and quote submission features. 
   
-### 11. 
+### 11. FastAPI Contacts API
 
-- [](https://github.com/Nikita-devel/hm2_11):
+- [FastAPI Contacts API](https://github.com/Nikita-devel/hm2_11): This project aims to create a robust REST API for managing contacts using the FastAPI framework and SQLAlchemy for database management.
   
-### 12. 
+### 12. Enhanced FastAPI Contacts API with Authentication and Authorization
 
-- [](https://github.com/Nikita-devel/hm2_12): 
+- [Enhanced FastAPI Contacts API with Authentication and Authorization](https://github.com/Nikita-devel/hm2_12): This iteration of the FastAPI Contacts API builds upon the previous version by implementing authentication and authorization mechanisms.
 
-### 13. 
+### 13. REST API Enhancement and Django Application Refinement
 
-- [](https://github.com/Nikita-devel/hm2_13):
+- [REST API Enhancement and Django Application Refinement](https://github.com/Nikita-devel/hm2_13): These enhancements and refinements aim to make the applications more secure, user-friendly, and efficient. The implementation of features like email verification, rate limiting, CORS support, and avatar updates contribute to a robust and reliable user experience.
   
-### 14. 
+### 14. Homework Assignment #14
 
-- [](https://github.com/Nikita-devel/hm2_14): 
+- [Homework Assignment #14](https://github.com/Nikita-devel/hm2_14): In this homework assignment, we continue refining our REST API application from the previous tasks (Homework #13).

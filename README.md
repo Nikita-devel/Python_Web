@@ -47,7 +47,7 @@ For this assignment, we will use the PostgreSQL database.
 
 - [Web Scraping Project - Quotes and Authors](https://github.com/Nikita-devel/hm2_9): This project involves web scraping using the Scrapy framework to extract quotes and author information from the website http://quotes.toscrape.com.
   
-### 10. # Django Web Project - Quotes Hub
+### 10. Django Web Project - Quotes Hub
 
 - [# Django Web Project - Quotes Hub](https://github.com/Nikita-devel/hm2_10): This Django web project replicates the functionality of the website http://quotes.toscrape.com and extends it to include user registration, authentication, author addition, and quote submission features. 
   

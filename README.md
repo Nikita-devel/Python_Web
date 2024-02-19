@@ -49,7 +49,7 @@ For this assignment, we will use the PostgreSQL database.
   
 ### 10. Django Web Project - Quotes Hub
 
-- [# Django Web Project - Quotes Hub](https://github.com/Nikita-devel/hm2_10): This Django web project replicates the functionality of the website http://quotes.toscrape.com and extends it to include user registration, authentication, author addition, and quote submission features. 
+- [Django Web Project - Quotes Hub](https://github.com/Nikita-devel/hm2_10): This Django web project replicates the functionality of the website http://quotes.toscrape.com and extends it to include user registration, authentication, author addition, and quote submission features. 
   
 ### 11. FastAPI Contacts API
 
